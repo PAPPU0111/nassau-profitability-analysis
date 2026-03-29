@@ -1,0 +1,120 @@
+============================================================
+  NASSAU CANDY DISTRIBUTOR – EDA SUMMARY REPORT
+============================================================
+  Total Revenue      : $  141,783.63
+  Total Gross Profit : $   93,442.80
+  Total Cost         : $   48,340.83
+  Total Units Sold   :        38,654
+  Overall Margin     :       65.91%
+  Unique Products    : 15
+  Unique Customers   : 5044
+  Order Date Range   : 2024-01-02 → 2025-12-31
+
+------------------------------------------------------------
+  PRODUCT PROFITABILITY LEADERBOARD (by Gross Profit)
+------------------------------------------------------------
+   1. Wonka Bar -Scrumdiddlyumptious            Margin:  69.4%  Profit: $   19,358
+   2. Wonka Bar - Triple Dazzle Caramel         Margin:  65.3%  Profit: $   18,610
+   3. Wonka Bar - Milk Chocolate                Margin:  64.9%  Profit: $   17,443
+   4. Wonka Bar - Nutty Crunch Surprise         Margin:  71.3%  Profit: $   16,820
+   5. Wonka Bar - Fudge Mallows                 Margin:  66.7%  Profit: $   16,594
+   6. Lickable Wallpaper                        Margin:  50.0%  Profit: $    3,930
+   7. Wonka Gum                                 Margin:  52.0%  Profit: $      311
+   8. Everlasting Gobstopper                    Margin:  80.0%  Profit: $      104
+   9. Kazookles                                 Margin:   7.7%  Profit: $       93
+  10. Hair Toffee                               Margin:  77.8%  Profit: $       60
+  11. Fizzy Lifting Drinks                      Margin:  60.0%  Profit: $       47
+  12. Laffy Taffy                               Margin:  62.3%  Profit: $       33
+  13. Sweetarts                                 Margin:  46.7%  Profit: $       29
+  14. Nerds                                     Margin:  46.7%  Profit: $        7
+  15. Fun Dip                                   Margin:  40.0%  Profit: $        5
+
+------------------------------------------------------------
+  DIVISION PERFORMANCE
+------------------------------------------------------------
+  Chocolate     Revenue: $   131,693  Profit: $   88,825  Margin:  67.5%  Rev-share:  92.9%
+  Other         Revenue: $     9,663  Profit: $    4,333  Margin:  44.8%  Rev-share:   6.8%
+  Sugar         Revenue: $       427  Profit: $      285  Margin:  66.6%  Rev-share:   0.3%
+
+------------------------------------------------------------
+  PARETO (80/20) CONCENTRATION
+------------------------------------------------------------
+  Products driving 80% of Revenue : 5 / 15
+  Products driving 80% of Profit  : 5 / 15
+
+------------------------------------------------------------
+  COST STRUCTURE DIAGNOSTICS (Cost as % of Sales)
+------------------------------------------------------------
+  Kazookles                                 Cost%:  92.3% ← HIGH COST
+  Fun Dip                                   Cost%:  60.0% ← HIGH COST
+  Nerds                                     Cost%:  53.3% ← HIGH COST
+  Sweetarts                                 Cost%:  53.3% ← HIGH COST
+  Lickable Wallpaper                        Cost%:  50.0% ← HIGH COST
+  Wonka Gum                                 Cost%:  48.0% ← HIGH COST
+  Fizzy Lifting Drinks                      Cost%:  40.0%
+  Laffy Taffy                               Cost%:  37.7%
+  Wonka Bar - Milk Chocolate                Cost%:  35.1%
+  Wonka Bar - Triple Dazzle Caramel         Cost%:  34.7%
+  Wonka Bar - Fudge Mallows                 Cost%:  33.3%
+  Wonka Bar -Scrumdiddlyumptious            Cost%:  30.6%
+  Wonka Bar - Nutty Crunch Surprise         Cost%:  28.7%
+  Hair Toffee                               Cost%:  22.2%
+  Everlasting Gobstopper                    Cost%:  20.0%
+
+------------------------------------------------------------
+  REGIONAL PERFORMANCE
+------------------------------------------------------------
+  Pacific       Rev: $    46,302  Profit: $   30,486  Margin:  65.8%
+  Atlantic      Rev: $    41,197  Profit: $   26,974  Margin:  65.5%
+  Interior      Rev: $    32,038  Profit: $   21,282  Margin:  66.4%
+  Gulf          Rev: $    22,247  Profit: $   14,701  Margin:  66.1%
+
+------------------------------------------------------------
+  PRODUCT QUADRANT CLASSIFICATION
+------------------------------------------------------------
+
+  ⭐ Star (High Rev, High Margin)
+    • Wonka Bar -Scrumdiddlyumptious
+    • Wonka Bar - Triple Dazzle Caramel
+    • Wonka Bar - Milk Chocolate
+    • Wonka Bar - Nutty Crunch Surprise
+    • Wonka Bar - Fudge Mallows
+
+  ⚠️  Volume Trap (High Rev, Low Margin)
+    • Lickable Wallpaper
+    • Wonka Gum
+    • Kazookles
+
+  💎 Hidden Gem (Low Rev, High Margin)
+    • Everlasting Gobstopper
+    • Hair Toffee
+    • Laffy Taffy
+
+  🚨 Danger Zone (Low Rev, Low Margin)
+    • Fizzy Lifting Drinks
+    • Sweetarts
+    • Nerds
+    • Fun Dip
+
+============================================================
+  KEY RECOMMENDATIONS
+============================================================
+
+  1. PROTECT star products: Wonka Bar -Scrumdiddlyumptious, Wonka Bar - Triple Dazzle Caramel, Wonka Bar - Milk Chocolate, Wonka Bar - Nutty Crunch Surprise, Wonka Bar - Fudge Mallows
+     → Prioritise inventory & promotional spend here.
+
+  2. INVESTIGATE volume traps: Lickable Wallpaper, Wonka Gum, Kazookles
+     → High sales but margin leakage — review pricing or sourcing costs.
+
+  3. SCALE hidden gems: Everlasting Gobstopper, Hair Toffee, Laffy Taffy
+     → Strong margins but under-selling — increase exposure.
+
+  4. REVIEW danger-zone products: Fizzy Lifting Drinks, Sweetarts, Nerds, Fun Dip
+     → Low volume AND low margin — candidates for discontinuation.
+
+  5. RENEGOTIATE costs for: Kazookles, Fun Dip, Nerds, Sweetarts, Lickable Wallpaper, Wonka Gum
+     → Cost ratio exceeds 40% — pricing review or supplier negotiation needed.
+
+  6. Focus on Region 'Atlantic' — lowest margin (65.5%) despite significant revenue.
+
+============================================================
